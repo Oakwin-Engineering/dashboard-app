@@ -39,16 +39,23 @@ const App: React.FC = () => {
       <CssBaseline />
       <AppBar
         position="fixed"
-        sx={{ zIndex: (theme) => theme.zIndex.drawer + 1 }}
-        style={{ background: "white" }}
+        sx={{ zIndex: (theme) => theme.zIndex.drawer + 1, background: "white" }}
       >
-        <Toolbar>
+        <Toolbar sx={{ minHeight: "110px !important" }}>
           <img
             src="./uhc-logo.png"
             alt="Universal Health"
-            height={60}
+            height={90}
             style={{ marginRight: 16, background: "#fff", borderRadius: 8 }}
           />
+          <Typography
+            variant="h5"
+            noWrap
+            component="div"
+            sx={{ color: "black", fontWeight: "bold" }}
+          >
+            Universal Health
+          </Typography>
         </Toolbar>
       </AppBar>
       <Drawer
@@ -62,7 +69,7 @@ const App: React.FC = () => {
           },
         }}
       >
-        <Toolbar />
+        <Toolbar sx={{ minHeight: "110px !important" }} />
         <NestedList
           items={navData}
           onSelect={(item, path) => setSelectedPath(path)}
