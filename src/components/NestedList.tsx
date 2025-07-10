@@ -9,7 +9,6 @@ import {
 } from "@mui/material";
 import { ExpandLess, ExpandMore } from "@mui/icons-material";
 import { loadNavData, NavDataItem } from "../data/navDataLoader.ts";
-import { SvgIconComponent } from "@mui/icons-material";
 
 interface NavItemProps {
   item: NavDataItem;
