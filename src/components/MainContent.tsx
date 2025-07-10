@@ -1,109 +1,81 @@
 import React from "react";
-import { Box, Typography, Toolbar } from "@mui/material";
+import { Box, Typography, Toolbar, Paper, Breadcrumbs } from "@mui/material";
 import { NavItem } from "./NestedList.tsx";
-import Table from "./Table.tsx";
+import FinancialKpiTable from "./Table.tsx";
+import { ProviderData } from "../App.tsx";
 
 type MainContentProps = {
   selectedItem: NavItem | null;
   selectedPath: string[];
   onBreadcrumbClick: (path: string[]) => void;
   onSelect: (item: NavItem, path: string[]) => void;
+  providerData: ProviderData | null;
 };
-
-
 
 const MainContent: React.FC<MainContentProps> = ({
   selectedItem,
   selectedPath,
   onBreadcrumbClick,
   onSelect,
+  providerData,
 }) => {
   const hasChildren = selectedItem && selectedItem.children && selectedItem.children.length > 0;
+
   return (
-    <Box sx={{ flexGrow: 1, p: 3 }}>
+    <Box component="main" sx={{ flexGrow: 1, p: 1, height: '100vh', overflow: 'auto' }}>
       <Toolbar />
-      <Box
-        sx={{ mb: 2, display: "flex", alignItems: "center", flexWrap: "wrap" }}
-      >
-        <Typography
-          sx={{ color: "#1976d2", cursor: "pointer", mr: 1 }}
-          onClick={() => onBreadcrumbClick([])}
-          component="span"
-        >
-          Home
-        </Typography>
-        {selectedPath.map((seg, idx) => (
-          <React.Fragment key={seg + idx}>
-            <Typography component="span" sx={{ mx: 1, color: "#1976d2" }}>
-              /
-            </Typography>
-            <Typography
-              component="span"
-              sx={{
-                color: idx === selectedPath.length - 1 ? "#1976d2" : "#1976d2",
-                fontWeight: idx === selectedPath.length - 1 ? 700 : 400,
-                cursor: idx === selectedPath.length - 1 ? "default" : "pointer",
-                mr: 1,
-                textDecoration:
-                  idx === selectedPath.length - 1 ? "underline" : "none",
-              }}
-              onClick={() => {
-                if (idx !== selectedPath.length - 1) {
-                  onBreadcrumbClick(selectedPath.slice(0, idx + 1));
-                }
-              }}
-            >
-              {seg}
-            </Typography>
-          </React.Fragment>
-        ))}
-      </Box>
       {selectedItem ? (
         <>
-          <Box sx={{ background: "#fff", p: 3, borderRadius: 2, boxShadow: 1, mb: hasChildren ? 3 : 0 }}>
+          <Paper sx={{ p: 1, mb: 2 }}>
+            <Breadcrumbs aria-label="breadcrumb" sx={{ mb: 2 }}>
+              <Typography
+                sx={{ cursor: 'pointer' }}
+                onClick={() => onBreadcrumbClick([])}
+              >
+                Home
+              </Typography>
+              {selectedPath.slice(0, -1).map((seg, idx) => (
+                <Typography
+                  key={idx}
+                  sx={{ cursor: 'pointer' }}
+                  onClick={() => onBreadcrumbClick(selectedPath.slice(0, idx + 2))}
+                >
+                  {seg}
+                </Typography>
+              ))}
+              <Typography color="text.primary">{selectedItem.label}</Typography>
+            </Breadcrumbs>
+
             <Typography variant="h5" sx={{ mb: 2, fontWeight: 700 }}>
               {selectedItem.label} Data
             </Typography>
-            <Table
-              autoHeightw
-              pageSize={5}
-              rowsPerPageOptions={[5]}
-              disableSelectionOnClick
-            />
-          </Box>
+
+            {providerData && <FinancialKpiTable providerData={providerData} />}
+          </Paper>
+
           {hasChildren && (
-            <Box sx={{ background: "#fff", p: 3, borderRadius: 2, boxShadow: 1 }}>
+            <Paper sx={{ p: 1 }}>
               <Typography variant="h5" sx={{ mb: 2, fontWeight: 700 }}>
-                {selectedItem.label} {selectedItem.type === "healthcare" ? "Providers" : "Descendants"}
+                {selectedItem.label} Facilities
               </Typography>
-              <ul style={{ margin: 0, padding: 0, listStyle: "none" }}>
-                {selectedItem.children!.map((child) => (
+              <ul>
+                {selectedItem.children?.map((child) => (
                   <li
                     key={child.label}
-                    style={{
-                      marginBottom: 8,
-                      display: "flex",
-                      alignItems: "center",
-                      cursor: "pointer",
-                    }}
                     onClick={() => onSelect(child, [...selectedPath, child.label])}
+                    style={{ cursor: "pointer", padding: '4px 0' }}
                   >
-                    {child.icon && (
-                      <span style={{ marginRight: 8 }}>
-                        {React.createElement(child.icon)}
-                      </span>
-                    )}
-                    <span>{child.label}</span>
+                    <Typography>{child.label}</Typography>
                   </li>
                 ))}
               </ul>
-            </Box>
+            </Paper>
           )}
         </>
       ) : (
-        <Box sx={{ background: "#fff", p: 3, borderRadius: 2, boxShadow: 1 }}>
-          <Typography variant="h6">Select a provider to view data.</Typography>
-        </Box>
+        <Paper sx={{ p: 2, textAlign: 'center' }}>
+          <Typography>Select an item from the navigation menu to get started.</Typography>
+        </Paper>
       )}
     </Box>
   );

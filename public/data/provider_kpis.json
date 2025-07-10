@@ -1,0 +1,6604 @@
+{
+  "Abdul Kawa": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 259,
+            "Total": 946,
+            "June": 333,
+            "May": 354
+          },
+          "99308": {
+            "April": 258,
+            "Total": 436,
+            "June": 88,
+            "May": 90
+          },
+          "99310": {
+            "April": 8,
+            "Total": 11,
+            "June": 1,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 525,
+          "Grand Total": 1393,
+          "June": 422,
+          "May": 446
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 9,
+            "Total": 27,
+            "June": 6,
+            "May": 12
+          }
+        },
+        "totals": {
+          "April": 9,
+          "Grand Total": 27,
+          "June": 6,
+          "May": 12
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 534,
+        "Grand Total": 1420,
+        "June": 428,
+        "May": 458
+      },
+      "Charges": {
+        "April": 87500.0,
+        "Grand Total": 242935.0,
+        "June": 75065.0,
+        "May": 80370.0
+      }
+    }
+  },
+  "Alfonso Brochero": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99305": {
+            "April": 142,
+            "Total": 300,
+            "June": 3,
+            "May": 155
+          },
+          "99306": {
+            "April": 62,
+            "Total": 82,
+            "June": 1,
+            "May": 19
+          }
+        },
+        "totals": {
+          "April": 204,
+          "Grand Total": 382,
+          "June": 4,
+          "May": 174
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 12,
+            "Total": 61,
+            "June": 20,
+            "May": 29
+          },
+          "99309": {
+            "April": 2,
+            "Total": 4,
+            "May": 2
+          },
+          "99310": {
+            "April": 1,
+            "Total": 5,
+            "May": 4
+          }
+        },
+        "totals": {
+          "April": 15,
+          "Grand Total": 70,
+          "June": 20,
+          "May": 35
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 219,
+        "Grand Total": 452,
+        "June": 24,
+        "May": 209
+      },
+      "Charges": {
+        "April": 59700.0,
+        "Grand Total": 115690.0,
+        "June": 3910.0,
+        "May": 52080.0
+      }
+    }
+  },
+  "Allison Young Smith": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 328,
+            "Total": 328
+          },
+          "99308": {
+            "April": 17,
+            "Total": 17
+          }
+        },
+        "totals": {
+          "April": 345,
+          "Grand Total": 345
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 345,
+        "Grand Total": 345
+      },
+      "Charges": {
+        "April": 63060.0,
+        "Grand Total": 63060.0
+      }
+    }
+  },
+  "Amanda Crews": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 460,
+            "Total": 1131,
+            "June": 350,
+            "May": 321
+          },
+          "99308": {
+            "April": 148,
+            "Total": 337,
+            "June": 112,
+            "May": 77
+          },
+          "99310": {
+            "April": 29,
+            "Total": 52,
+            "June": 15,
+            "May": 8
+          }
+        },
+        "totals": {
+          "April": 637,
+          "Grand Total": 1520,
+          "June": 477,
+          "May": 406
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 14,
+            "Total": 27,
+            "June": 3,
+            "May": 10
+          },
+          "99315": {
+            "April": 4,
+            "Total": 6,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 18,
+          "Grand Total": 33,
+          "June": 3,
+          "May": 12
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 655,
+        "Grand Total": 1553,
+        "June": 480,
+        "May": 418
+      },
+      "Charges": {
+        "April": 117170.0,
+        "Grand Total": 276995.0,
+        "June": 85110.0,
+        "May": 74715.0
+      }
+    }
+  },
+  "Amina Santali": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 201,
+            "Total": 594,
+            "June": 60,
+            "May": 333
+          },
+          "99308": {
+            "April": 96,
+            "Total": 118,
+            "June": 2,
+            "May": 20
+          },
+          "99310": {
+            "April": 29,
+            "Total": 46,
+            "June": 1,
+            "May": 16
+          }
+        },
+        "totals": {
+          "April": 326,
+          "Grand Total": 758,
+          "June": 63,
+          "May": 369
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 9,
+            "Total": 14,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 9,
+          "Grand Total": 14,
+          "May": 5
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 335,
+        "Grand Total": 772,
+        "June": 63,
+        "May": 374
+      },
+      "Charges": {
+        "April": 60345.0,
+        "Grand Total": 141770.0,
+        "June": 11650.0,
+        "May": 69775.0
+      }
+    }
+  },
+  "Amy Daniels": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 256,
+            "Total": 757,
+            "June": 289,
+            "May": 212
+          },
+          "99308": {
+            "April": 92,
+            "Total": 264,
+            "June": 73,
+            "May": 99
+          },
+          "99310": {
+            "April": 17,
+            "Total": 61,
+            "June": 19,
+            "May": 25
+          }
+        },
+        "totals": {
+          "April": 365,
+          "Grand Total": 1082,
+          "June": 381,
+          "May": 336
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 11,
+            "Total": 22,
+            "June": 2,
+            "May": 9
+          }
+        },
+        "totals": {
+          "April": 11,
+          "Grand Total": 22,
+          "June": 2,
+          "May": 9
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 376,
+        "Grand Total": 1104,
+        "June": 383,
+        "May": 345
+      },
+      "Charges": {
+        "April": 67140.0,
+        "Grand Total": 198095.0,
+        "June": 69235.0,
+        "May": 61720.0
+      }
+    }
+  },
+  "Amy Reedy": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 192,
+            "Total": 646,
+            "June": 214,
+            "May": 240
+          },
+          "99308": {
+            "April": 166,
+            "Total": 473,
+            "June": 136,
+            "May": 171
+          },
+          "99310": {
+            "April": 28,
+            "Total": 109,
+            "June": 37,
+            "May": 44
+          }
+        },
+        "totals": {
+          "April": 386,
+          "Grand Total": 1228,
+          "June": 387,
+          "May": 455
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 20,
+            "Total": 43,
+            "June": 9,
+            "May": 14
+          },
+          "99316": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 20,
+          "Grand Total": 45,
+          "June": 11,
+          "May": 14
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 406,
+        "Grand Total": 1273,
+        "June": 398,
+        "May": 469
+      },
+      "Charges": {
+        "April": 69220.0,
+        "Grand Total": 221815.0,
+        "June": 70345.0,
+        "May": 82250.0
+      }
+    }
+  },
+  "Andrew Barlow": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 15,
+            "Total": 36,
+            "June": 9,
+            "May": 12
+          },
+          "99305": {
+            "April": 14,
+            "Total": 44,
+            "June": 17,
+            "May": 13
+          },
+          "99304": {
+            "June": 2,
+            "Total": 6,
+            "May": 4
+          }
+        },
+        "totals": {
+          "April": 29,
+          "Grand Total": 86,
+          "June": 28,
+          "May": 29
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99307": {
+            "April": 43,
+            "Total": 117,
+            "June": 37,
+            "May": 37
+          },
+          "99308": {
+            "April": 38,
+            "Total": 117,
+            "June": 35,
+            "May": 44
+          },
+          "99309": {
+            "April": 9,
+            "Total": 14,
+            "June": 3,
+            "May": 2
+          },
+          "99310": {
+            "April": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "April": 94,
+          "Grand Total": 252,
+          "June": 75,
+          "May": 83
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 123,
+        "Grand Total": 338,
+        "June": 103,
+        "May": 112
+      },
+      "Charges": {
+        "April": 20525.0,
+        "Grand Total": 54980.0,
+        "June": 16535.0,
+        "May": 17920.0
+      }
+    }
+  },
+  "Angelia Moore": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 86,
+            "Total": 100,
+            "June": 2,
+            "May": 12
+          },
+          "99309": {
+            "April": 33,
+            "Total": 37,
+            "June": 1,
+            "May": 3
+          },
+          "99310": {
+            "April": 4,
+            "Total": 5,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 123,
+          "Grand Total": 142,
+          "June": 3,
+          "May": 16
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 1,
+            "Total": 1
+          },
+          "99315": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 125,
+        "Grand Total": 144,
+        "June": 3,
+        "May": 16
+      },
+      "Charges": {
+        "April": 19580.0,
+        "Grand Total": 22550.0,
+        "June": 465.0,
+        "May": 2505.0
+      }
+    }
+  },
+  "Anthony Patriarco": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 73,
+            "Total": 210,
+            "June": 81,
+            "May": 56
+          }
+        },
+        "totals": {
+          "April": 73,
+          "Grand Total": 210,
+          "June": 81,
+          "May": 56
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 33,
+            "Total": 116,
+            "June": 48,
+            "May": 35
+          },
+          "99308": {
+            "April": 6,
+            "Total": 31,
+            "June": 16,
+            "May": 9
+          }
+        },
+        "totals": {
+          "April": 39,
+          "Grand Total": 147,
+          "June": 64,
+          "May": 44
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 112,
+        "Grand Total": 357,
+        "June": 145,
+        "May": 100
+      },
+      "Charges": {
+        "April": 31035.0,
+        "Grand Total": 95100.0,
+        "June": 37850.0,
+        "May": 26215.0
+      }
+    }
+  },
+  "Aparna Ranjan": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 30,
+            "Total": 53,
+            "June": 13,
+            "May": 10
+          },
+          "99305": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 31,
+          "Grand Total": 54,
+          "June": 13,
+          "May": 10
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 23,
+            "Total": 85,
+            "June": 25,
+            "May": 37
+          },
+          "99310": {
+            "April": 2,
+            "Total": 4,
+            "June": 1,
+            "May": 1
+          },
+          "99308": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 25,
+          "Grand Total": 90,
+          "June": 27,
+          "May": 38
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 58,
+        "Grand Total": 146,
+        "June": 40,
+        "May": 48
+      },
+      "Charges": {
+        "April": 15245.0,
+        "Grand Total": 34985.0,
+        "June": 9325.0,
+        "May": 10415.0
+      }
+    }
+  },
+  "April Ruffin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 61,
+            "Total": 177,
+            "June": 60,
+            "May": 56
+          },
+          "99305": {
+            "April": 2,
+            "Total": 49,
+            "June": 33,
+            "May": 14
+          }
+        },
+        "totals": {
+          "April": 63,
+          "Grand Total": 226,
+          "June": 93,
+          "May": 70
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 56,
+            "Total": 57,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 56,
+          "Grand Total": 57,
+          "May": 1
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 119,
+        "Grand Total": 283,
+        "June": 93,
+        "May": 71
+      },
+      "Charges": {
+        "April": 31010.0,
+        "Grand Total": 81695.0,
+        "June": 28380.0,
+        "May": 22305.0
+      }
+    }
+  },
+  "Arlyn Salabao": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 34,
+            "Total": 34
+          },
+          "99310": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 36,
+          "Grand Total": 36
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 38,
+        "Grand Total": 38
+      },
+      "Charges": {
+        "April": 7250.0,
+        "Grand Total": 7250.0
+      }
+    }
+  },
+  "Berna Jean Besana-Mirafuente": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 226,
+            "Total": 798,
+            "June": 290,
+            "May": 282
+          },
+          "99308": {
+            "April": 42,
+            "Total": 143,
+            "June": 50,
+            "May": 51
+          },
+          "99310": {
+            "April": 33,
+            "Total": 92,
+            "June": 27,
+            "May": 32
+          }
+        },
+        "totals": {
+          "April": 301,
+          "Grand Total": 1033,
+          "June": 367,
+          "May": 365
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 8,
+            "Total": 32,
+            "June": 8,
+            "May": 16
+          }
+        },
+        "totals": {
+          "April": 8,
+          "Grand Total": 32,
+          "June": 8,
+          "May": 16
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 309,
+        "Grand Total": 1065,
+        "June": 375,
+        "May": 381
+      },
+      "Charges": {
+        "April": 58280.0,
+        "Grand Total": 199210.0,
+        "June": 69620.0,
+        "May": 71310.0
+      }
+    }
+  },
+  "Bridgette Smoot": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 57,
+            "Total": 211,
+            "June": 78,
+            "May": 76
+          },
+          "99310": {
+            "April": 34,
+            "Total": 113,
+            "June": 44,
+            "May": 35
+          },
+          "99308": {
+            "April": 17,
+            "Total": 68,
+            "June": 29,
+            "May": 22
+          }
+        },
+        "totals": {
+          "April": 108,
+          "Grand Total": 392,
+          "June": 151,
+          "May": 133
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "May": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 108,
+        "Grand Total": 393,
+        "June": 151,
+        "May": 134
+      },
+      "Charges": {
+        "April": 22105.0,
+        "Grand Total": 79210.0,
+        "June": 30370.0,
+        "May": 26735.0
+      }
+    }
+  },
+  "Cathy Arney": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 16,
+            "Total": 252,
+            "June": 56,
+            "May": 180
+          },
+          "99310": {
+            "April": 3,
+            "Total": 56,
+            "June": 9,
+            "May": 44
+          }
+        },
+        "totals": {
+          "April": 19,
+          "Grand Total": 308,
+          "June": 65,
+          "May": 224
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 19,
+        "Grand Total": 308,
+        "June": 65,
+        "May": 224
+      },
+      "Charges": {
+        "April": 3770.0,
+        "Grand Total": 61578.38,
+        "June": 12628.38,
+        "May": 45180.0
+      }
+    }
+  },
+  "Charles Moon": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 240,
+            "Total": 240
+          },
+          "99308": {
+            "April": 122,
+            "Total": 122
+          },
+          "99310": {
+            "April": 16,
+            "Total": 16
+          }
+        },
+        "totals": {
+          "April": 378,
+          "Grand Total": 378
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 10,
+            "Total": 10
+          }
+        },
+        "totals": {
+          "April": 10,
+          "Grand Total": 10
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 388,
+        "Grand Total": 388
+      },
+      "Charges": {
+        "April": 67900.0,
+        "Grand Total": 67900.0
+      }
+    }
+  },
+  "Charles Welly": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 27,
+            "Total": 74,
+            "June": 17,
+            "May": 30
+          },
+          "99305": {
+            "April": 8,
+            "Total": 12,
+            "June": 4
+          }
+        },
+        "totals": {
+          "April": 35,
+          "Grand Total": 86,
+          "June": 21,
+          "May": 30
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 42,
+            "Total": 104,
+            "June": 41,
+            "May": 21
+          },
+          "99310": {
+            "April": 1,
+            "Total": 4,
+            "June": 3
+          },
+          "99308": {
+            "May": 9,
+            "Total": 9
+          }
+        },
+        "totals": {
+          "April": 43,
+          "Grand Total": 117,
+          "June": 44,
+          "May": 30
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 78,
+        "Grand Total": 203,
+        "June": 65,
+        "May": 60
+      },
+      "Charges": {
+        "April": 19030.0,
+        "Grand Total": 49120.0,
+        "June": 15045.0,
+        "May": 15045.0
+      }
+    }
+  },
+  "Chinedum Ikwueme": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 444,
+            "Total": 1311,
+            "June": 445,
+            "May": 422
+          },
+          "99308": {
+            "April": 54,
+            "Total": 84,
+            "June": 3,
+            "May": 27
+          },
+          "99310": {
+            "April": 16,
+            "Total": 65,
+            "June": 23,
+            "May": 26
+          }
+        },
+        "totals": {
+          "April": 514,
+          "Grand Total": 1460,
+          "June": 471,
+          "May": 475
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 514,
+        "Grand Total": 1460,
+        "June": 471,
+        "May": 475
+      },
+      "Charges": {
+        "April": 94020.0,
+        "Grand Total": 271845.0,
+        "June": 88955.0,
+        "May": 88870.0
+      }
+    }
+  },
+  "Christeen Jefferson": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 210,
+            "Total": 905,
+            "June": 248,
+            "May": 447
+          },
+          "99308": {
+            "April": 47,
+            "Total": 181,
+            "June": 47,
+            "May": 87
+          },
+          "99310": {
+            "April": 32,
+            "Total": 75,
+            "June": 22,
+            "May": 21
+          }
+        },
+        "totals": {
+          "April": 289,
+          "Grand Total": 1161,
+          "June": 317,
+          "May": 555
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 1,
+            "Total": 1
+          },
+          "99316": {
+            "April": 1,
+            "Total": 5,
+            "May": 4
+          }
+        },
+        "totals": {
+          "April": 2,
+          "Grand Total": 6,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 291,
+        "Grand Total": 1167,
+        "June": 317,
+        "May": 559
+      },
+      "Charges": {
+        "April": 54425.0,
+        "Grand Total": 214210.0,
+        "June": 58400.0,
+        "May": 101385.0
+      }
+    }
+  },
+  "Christie York": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 1,
+            "Total": 2,
+            "May": 1
+          },
+          "99305": {
+            "May": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 4,
+          "May": 3
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 351,
+            "Total": 1370,
+            "June": 532,
+            "May": 487
+          },
+          "99308": {
+            "April": 53,
+            "Total": 160,
+            "June": 73,
+            "May": 34
+          },
+          "99310": {
+            "April": 25,
+            "Total": 65,
+            "June": 23,
+            "May": 17
+          },
+          "99307": {
+            "May": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "April": 429,
+          "Grand Total": 1598,
+          "June": 628,
+          "May": 541
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 25,
+            "Total": 44,
+            "June": 10,
+            "May": 9
+          },
+          "99315": {
+            "April": 4,
+            "Total": 5,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 29,
+          "Grand Total": 49,
+          "June": 10,
+          "May": 10
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 459,
+        "Grand Total": 1651,
+        "June": 638,
+        "May": 554
+      },
+      "Charges": {
+        "April": 85265.0,
+        "Grand Total": 304815.0,
+        "June": 116950.0,
+        "May": 102600.0
+      }
+    }
+  },
+  "Craig Hayek": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 51,
+            "Total": 90,
+            "May": 39
+          },
+          "99305": {
+            "April": 1,
+            "Total": 3,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 52,
+          "Grand Total": 93,
+          "May": 41
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 32,
+            "Total": 54,
+            "May": 22
+          },
+          "99308": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 34,
+          "Grand Total": 56,
+          "May": 22
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 86,
+        "Grand Total": 149,
+        "May": 63
+      },
+      "Charges": {
+        "April": 23290.0,
+        "Grand Total": 40750.0,
+        "May": 17460.0
+      }
+    }
+  },
+  "Cristin Bradley": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 156,
+            "Total": 200,
+            "May": 44
+          },
+          "99308": {
+            "April": 112,
+            "Total": 129,
+            "May": 17
+          },
+          "99310": {
+            "April": 15,
+            "Total": 21,
+            "May": 6
+          }
+        },
+        "totals": {
+          "April": 283,
+          "Grand Total": 350,
+          "May": 67
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 9,
+            "Total": 10,
+            "May": 1
+          },
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 9,
+          "Grand Total": 11,
+          "May": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 292,
+        "Grand Total": 361,
+        "May": 69
+      },
+      "Charges": {
+        "April": 50480.0,
+        "Grand Total": 62975.0,
+        "May": 12495.0
+      }
+    }
+  },
+  "Crystal Moss": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 235,
+            "Total": 798,
+            "June": 280,
+            "May": 283
+          },
+          "99310": {
+            "April": 30,
+            "Total": 131,
+            "June": 67,
+            "May": 34
+          },
+          "99308": {
+            "April": 6,
+            "Total": 20,
+            "June": 2,
+            "May": 12
+          }
+        },
+        "totals": {
+          "April": 271,
+          "Grand Total": 949,
+          "June": 349,
+          "May": 329
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 4,
+            "Total": 21,
+            "June": 6,
+            "May": 11
+          },
+          "99315": {
+            "April": 2,
+            "Total": 3,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 6,
+          "Grand Total": 24,
+          "June": 6,
+          "May": 12
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 277,
+        "Grand Total": 973,
+        "June": 355,
+        "May": 341
+      },
+      "Charges": {
+        "April": 53545.0,
+        "Grand Total": 190645.0,
+        "June": 71430.0,
+        "May": 65670.0
+      }
+    }
+  },
+  "Daleen Lewis": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 279,
+            "Total": 599,
+            "June": 95,
+            "May": 225
+          },
+          "99308": {
+            "April": 112,
+            "Total": 242,
+            "June": 35,
+            "May": 95
+          },
+          "99310": {
+            "April": 40,
+            "Total": 67,
+            "June": 1,
+            "May": 26
+          }
+        },
+        "totals": {
+          "April": 431,
+          "Grand Total": 908,
+          "June": 131,
+          "May": 346
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 3,
+            "Total": 11,
+            "May": 8
+          },
+          "99315": {
+            "May": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "April": 3,
+          "Grand Total": 15,
+          "May": 12
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 434,
+        "Grand Total": 923,
+        "June": 131,
+        "May": 358
+      },
+      "Charges": {
+        "April": 78725.0,
+        "Grand Total": 165675.0,
+        "June": 22745.0,
+        "May": 64205.0
+      }
+    }
+  },
+  "Dawn Shire Crawford": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 219,
+            "Total": 653,
+            "June": 248,
+            "May": 186
+          },
+          "99310": {
+            "April": 8,
+            "Total": 24,
+            "June": 8,
+            "May": 8
+          },
+          "99308": {
+            "May": 5,
+            "Total": 5
+          }
+        },
+        "totals": {
+          "April": 227,
+          "Grand Total": 682,
+          "June": 256,
+          "May": 199
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 3,
+            "Total": 10,
+            "June": 1,
+            "May": 6
+          }
+        },
+        "totals": {
+          "April": 3,
+          "Grand Total": 10,
+          "June": 1,
+          "May": 6
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 230,
+        "Grand Total": 692,
+        "June": 257,
+        "May": 205
+      },
+      "Charges": {
+        "April": 43305.0,
+        "Grand Total": 130085.0,
+        "June": 48250.0,
+        "May": 38530.0
+      }
+    }
+  },
+  "Deborah Parsons": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 279,
+            "Total": 692,
+            "June": 160,
+            "May": 253
+          },
+          "99308": {
+            "April": 152,
+            "Total": 294,
+            "June": 57,
+            "May": 85
+          },
+          "99310": {
+            "April": 12,
+            "Total": 44,
+            "June": 32
+          }
+        },
+        "totals": {
+          "April": 443,
+          "Grand Total": 1030,
+          "June": 249,
+          "May": 338
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 5,
+            "Total": 7,
+            "May": 2
+          },
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 8,
+          "May": 3
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 448,
+        "Grand Total": 1038,
+        "June": 249,
+        "May": 341
+      },
+      "Charges": {
+        "April": 77185.0,
+        "Grand Total": 182675.0,
+        "June": 46220.0,
+        "May": 59270.0
+      }
+    }
+  },
+  "Desirae Downs": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 53,
+            "Total": 277,
+            "June": 101,
+            "May": 123
+          },
+          "99308": {
+            "April": 17,
+            "Total": 149,
+            "June": 69,
+            "May": 63
+          },
+          "99310": {
+            "April": 12,
+            "Total": 62,
+            "June": 20,
+            "May": 30
+          }
+        },
+        "totals": {
+          "April": 82,
+          "Grand Total": 488,
+          "June": 190,
+          "May": 216
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 1,
+            "Total": 15,
+            "June": 1,
+            "May": 13
+          },
+          "99316": {
+            "June": 2,
+            "Total": 4,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 19,
+          "June": 3,
+          "May": 15
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 83,
+        "Grand Total": 507,
+        "June": 193,
+        "May": 231
+      },
+      "Charges": {
+        "April": 15570.0,
+        "Grand Total": 91860.0,
+        "June": 34310.0,
+        "May": 41980.0
+      }
+    }
+  },
+  "Elizabeth Draper": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 68,
+            "Total": 161,
+            "June": 45,
+            "May": 48
+          },
+          "99305": {
+            "April": 3,
+            "Total": 27,
+            "June": 13,
+            "May": 11
+          }
+        },
+        "totals": {
+          "April": 71,
+          "Grand Total": 188,
+          "June": 58,
+          "May": 59
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 25,
+            "Total": 52,
+            "June": 13,
+            "May": 14
+          }
+        },
+        "totals": {
+          "April": 25,
+          "Grand Total": 52,
+          "June": 13,
+          "May": 14
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 96,
+        "Grand Total": 240,
+        "June": 71,
+        "May": 73
+      },
+      "Charges": {
+        "April": 26720.0,
+        "Grand Total": 67430.0,
+        "June": 20050.0,
+        "May": 20660.0
+      }
+    }
+  },
+  "Ellen Landreth": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 469,
+            "Total": 1558,
+            "June": 464,
+            "May": 625
+          },
+          "99310": {
+            "April": 81,
+            "Total": 268,
+            "June": 101,
+            "May": 86
+          },
+          "99308": {
+            "April": 1,
+            "Total": 15,
+            "June": 8,
+            "May": 6
+          }
+        },
+        "totals": {
+          "April": 551,
+          "Grand Total": 1841,
+          "June": 573,
+          "May": 717
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 30,
+            "Total": 88,
+            "June": 36,
+            "May": 22
+          },
+          "99315": {
+            "April": 2,
+            "Total": 3,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 32,
+          "Grand Total": 91,
+          "June": 36,
+          "May": 23
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 583,
+        "Grand Total": 1932,
+        "June": 609,
+        "May": 740
+      },
+      "Charges": {
+        "April": 115365.0,
+        "Grand Total": 381605.0,
+        "June": 121790.0,
+        "May": 144450.0
+      }
+    }
+  },
+  "Gina Martin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 61,
+            "Total": 179,
+            "June": 69,
+            "May": 49
+          },
+          "99309": {
+            "April": 28,
+            "Total": 112,
+            "June": 57,
+            "May": 27
+          },
+          "99310": {
+            "April": 6,
+            "Total": 15,
+            "June": 8,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 95,
+          "Grand Total": 306,
+          "June": 134,
+          "May": 77
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 4,
+            "Total": 6,
+            "May": 2
+          }
+        },
+        "totals": {
+          "June": 4,
+          "Grand Total": 6,
+          "May": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 95,
+        "Grand Total": 312,
+        "June": 138,
+        "May": 79
+      },
+      "Charges": {
+        "April": 15340.0,
+        "Grand Total": 51090.0,
+        "June": 23205.0,
+        "May": 12545.0
+      }
+    }
+  },
+  "Harold Stepanek": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 19,
+            "Total": 53,
+            "June": 15,
+            "May": 19
+          }
+        },
+        "totals": {
+          "April": 19,
+          "Grand Total": 53,
+          "June": 15,
+          "May": 19
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 11,
+            "Total": 38,
+            "June": 6,
+            "May": 21
+          },
+          "99310": {
+            "April": 6,
+            "Total": 11,
+            "June": 1,
+            "May": 4
+          }
+        },
+        "totals": {
+          "April": 17,
+          "Grand Total": 49,
+          "June": 7,
+          "May": 25
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 36,
+        "Grand Total": 102,
+        "June": 22,
+        "May": 44
+      },
+      "Charges": {
+        "April": 9925.0,
+        "Grand Total": 27490.0,
+        "June": 6330.0,
+        "May": 11235.0
+      }
+    }
+  },
+  "Ila Mckenzie": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 220,
+            "Total": 508,
+            "June": 71,
+            "May": 217
+          },
+          "99309": {
+            "April": 165,
+            "Total": 398,
+            "June": 81,
+            "May": 152
+          },
+          "99310": {
+            "April": 63,
+            "Total": 160,
+            "June": 20,
+            "May": 77
+          },
+          "99307": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 448,
+          "Grand Total": 1067,
+          "June": 173,
+          "May": 446
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 448,
+        "Grand Total": 1067,
+        "June": 173,
+        "May": 446
+      },
+      "Charges": {
+        "April": 78335.0,
+        "Grand Total": 188040.0,
+        "June": 30415.0,
+        "May": 79290.0
+      }
+    }
+  },
+  "Indre Malaiskaite": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 221,
+            "Total": 365,
+            "June": 51,
+            "May": 93
+          },
+          "99308": {
+            "April": 22,
+            "Total": 59,
+            "June": 14,
+            "May": 23
+          },
+          "99310": {
+            "April": 9,
+            "Total": 24,
+            "June": 10,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 252,
+          "Grand Total": 448,
+          "June": 75,
+          "May": 121
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 252,
+        "Grand Total": 448,
+        "June": 75,
+        "May": 121
+      },
+      "Charges": {
+        "April": 46395.0,
+        "Grand Total": 82265.0,
+        "June": 14095.0,
+        "May": 21775.0
+      }
+    }
+  },
+  "Isai Cruz": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 189,
+            "Total": 407,
+            "June": 117,
+            "May": 101
+          },
+          "99309": {
+            "April": 124,
+            "Total": 349,
+            "June": 146,
+            "May": 79
+          },
+          "99310": {
+            "April": 26,
+            "Total": 90,
+            "June": 44,
+            "May": 20
+          },
+          "99307": {
+            "April": 21,
+            "Total": 25,
+            "June": 4
+          }
+        },
+        "totals": {
+          "April": 360,
+          "Grand Total": 871,
+          "June": 311,
+          "May": 200
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 7,
+            "Total": 23,
+            "June": 14,
+            "May": 2
+          },
+          "99316": {
+            "April": 1,
+            "Total": 2,
+            "June": 1
+          }
+        },
+        "totals": {
+          "April": 8,
+          "Grand Total": 25,
+          "June": 15,
+          "May": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 368,
+        "Grand Total": 896,
+        "June": 326,
+        "May": 202
+      },
+      "Charges": {
+        "April": 59535.0,
+        "Grand Total": 151850.0,
+        "June": 57870.0,
+        "May": 34445.0
+      }
+    }
+  },
+  "Jacqueline Griffin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 10,
+            "Total": 10
+          }
+        },
+        "totals": {
+          "April": 10,
+          "Grand Total": 10
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 10,
+        "Grand Total": 10
+      },
+      "Charges": {
+        "April": 1850.0,
+        "Grand Total": 1850.0
+      }
+    }
+  },
+  "James Bates": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 18,
+            "Total": 62,
+            "June": 25,
+            "May": 19
+          },
+          "99305": {
+            "April": 3,
+            "Total": 39,
+            "June": 23,
+            "May": 13
+          }
+        },
+        "totals": {
+          "April": 21,
+          "Grand Total": 101,
+          "June": 48,
+          "May": 32
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 25,
+            "Total": 83,
+            "June": 29,
+            "May": 29
+          },
+          "99308": {
+            "April": 10,
+            "Total": 27,
+            "June": 2,
+            "May": 15
+          },
+          "99310": {
+            "April": 1,
+            "Total": 9,
+            "June": 5,
+            "May": 3
+          }
+        },
+        "totals": {
+          "April": 36,
+          "Grand Total": 119,
+          "June": 36,
+          "May": 47
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "May": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "May": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 57,
+        "Grand Total": 222,
+        "June": 84,
+        "May": 81
+      },
+      "Charges": {
+        "April": 13015.0,
+        "Grand Total": 52585.0,
+        "June": 21225.0,
+        "May": 18345.0
+      }
+    }
+  },
+  "Jayme Kressen": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 261,
+            "Total": 670,
+            "June": 157,
+            "May": 252
+          },
+          "99310": {
+            "April": 27,
+            "Total": 81,
+            "June": 23,
+            "May": 31
+          },
+          "99308": {
+            "April": 12,
+            "Total": 25,
+            "June": 4,
+            "May": 9
+          }
+        },
+        "totals": {
+          "April": 300,
+          "Grand Total": 776,
+          "June": 184,
+          "May": 292
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 1,
+            "Total": 1
+          },
+          "99316": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 2,
+          "May": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 301,
+        "Grand Total": 778,
+        "June": 184,
+        "May": 293
+      },
+      "Charges": {
+        "April": 57400.0,
+        "Grand Total": 149675.0,
+        "June": 35815.0,
+        "May": 56460.0
+      }
+    }
+  },
+  "Jenna Holt": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 437,
+            "Total": 1090,
+            "June": 303,
+            "May": 350
+          },
+          "99308": {
+            "April": 75,
+            "Total": 215,
+            "June": 73,
+            "May": 67
+          },
+          "99310": {
+            "April": 52,
+            "Total": 127,
+            "June": 40,
+            "May": 35
+          }
+        },
+        "totals": {
+          "April": 564,
+          "Grand Total": 1432,
+          "June": 416,
+          "May": 452
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 22,
+            "Total": 36,
+            "June": 3,
+            "May": 11
+          }
+        },
+        "totals": {
+          "April": 22,
+          "Grand Total": 36,
+          "June": 3,
+          "May": 11
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 586,
+        "Grand Total": 1468,
+        "June": 419,
+        "May": 463
+      },
+      "Charges": {
+        "April": 110005.0,
+        "Grand Total": 273600.0,
+        "June": 77705.0,
+        "May": 85890.0
+      }
+    }
+  },
+  "Jennifer Davis": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 458,
+            "Total": 1124,
+            "June": 295,
+            "May": 371
+          },
+          "99310": {
+            "April": 151,
+            "Total": 283,
+            "June": 38,
+            "May": 94
+          },
+          "99308": {
+            "April": 149,
+            "Total": 440,
+            "June": 133,
+            "May": 158
+          }
+        },
+        "totals": {
+          "April": 758,
+          "Grand Total": 1847,
+          "June": 466,
+          "May": 623
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 62,
+            "Total": 109,
+            "June": 17,
+            "May": 30
+          },
+          "99315": {
+            "June": 1,
+            "Total": 4,
+            "May": 3
+          }
+        },
+        "totals": {
+          "April": 62,
+          "Grand Total": 113,
+          "June": 18,
+          "May": 33
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 820,
+        "Grand Total": 1960,
+        "June": 484,
+        "May": 656
+      },
+      "Charges": {
+        "April": 159380.0,
+        "Grand Total": 369420.0,
+        "June": 87170.0,
+        "May": 122870.0
+      }
+    }
+  },
+  "Jennifer Horne": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 363,
+            "Total": 876,
+            "June": 293,
+            "May": 220
+          },
+          "99308": {
+            "April": 166,
+            "Total": 466,
+            "June": 146,
+            "May": 154
+          },
+          "99310": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 529,
+          "Grand Total": 1343,
+          "June": 440,
+          "May": 374
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 21,
+            "Total": 37,
+            "June": 2,
+            "May": 14
+          },
+          "99315": {
+            "April": 6,
+            "Total": 19,
+            "June": 8,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 27,
+          "Grand Total": 56,
+          "June": 10,
+          "May": 19
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 556,
+        "Grand Total": 1399,
+        "June": 450,
+        "May": 393
+      },
+      "Charges": {
+        "April": 95675.0,
+        "Grand Total": 238095.0,
+        "June": 76495.0,
+        "May": 65925.0
+      }
+    }
+  },
+  "Jeremy Whited": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 242,
+            "Total": 702,
+            "June": 181,
+            "May": 279
+          },
+          "99308": {
+            "April": 102,
+            "Total": 358,
+            "June": 130,
+            "May": 126
+          },
+          "99310": {
+            "April": 35,
+            "Total": 60,
+            "June": 6,
+            "May": 19
+          }
+        },
+        "totals": {
+          "April": 379,
+          "Grand Total": 1120,
+          "June": 317,
+          "May": 424
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 10,
+            "Total": 16,
+            "May": 6
+          },
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 10,
+          "Grand Total": 17,
+          "May": 7
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 389,
+        "Grand Total": 1137,
+        "June": 317,
+        "May": 431
+      },
+      "Charges": {
+        "April": 70600.0,
+        "Grand Total": 199695.0,
+        "June": 53305.0,
+        "May": 75790.0
+      }
+    }
+  },
+  "Jill Garrett": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 317,
+            "Total": 925,
+            "June": 287,
+            "May": 321
+          },
+          "99308": {
+            "April": 195,
+            "Total": 423,
+            "June": 93,
+            "May": 135
+          },
+          "99310": {
+            "April": 44,
+            "Total": 107,
+            "June": 20,
+            "May": 43
+          }
+        },
+        "totals": {
+          "April": 556,
+          "Grand Total": 1455,
+          "June": 400,
+          "May": 499
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 4,
+            "Total": 8,
+            "May": 4
+          },
+          "99315": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 6,
+          "Grand Total": 10,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 562,
+        "Grand Total": 1465,
+        "June": 400,
+        "May": 503
+      },
+      "Charges": {
+        "April": 98955.0,
+        "Grand Total": 261205.0,
+        "June": 71515.0,
+        "May": 90735.0
+      }
+    }
+  },
+  "Johnee Nedrick": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 192,
+            "Total": 603,
+            "June": 212,
+            "May": 199
+          },
+          "99308": {
+            "April": 59,
+            "Total": 100,
+            "June": 11,
+            "May": 30
+          },
+          "99310": {
+            "April": 8,
+            "Total": 33,
+            "June": 13,
+            "May": 12
+          }
+        },
+        "totals": {
+          "April": 259,
+          "Grand Total": 736,
+          "June": 236,
+          "May": 241
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 5,
+            "Total": 13,
+            "June": 4,
+            "May": 4
+          },
+          "99316": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 7,
+          "Grand Total": 15,
+          "June": 4,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 266,
+        "Grand Total": 751,
+        "June": 240,
+        "May": 245
+      },
+      "Charges": {
+        "April": 47085.0,
+        "Grand Total": 136770.0,
+        "June": 44850.0,
+        "May": 44835.0
+      }
+    }
+  },
+  "John Reed-Hill Gilstad": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 27,
+            "Total": 72,
+            "June": 28,
+            "May": 17
+          },
+          "99305": {
+            "April": 7,
+            "Total": 7
+          }
+        },
+        "totals": {
+          "April": 34,
+          "Grand Total": 79,
+          "June": 28,
+          "May": 17
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 8,
+            "Total": 16,
+            "June": 2,
+            "May": 6
+          },
+          "99308": {
+            "April": 3,
+            "Total": 3
+          },
+          "99310": {
+            "June": 3,
+            "Total": 8,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 11,
+          "Grand Total": 27,
+          "June": 5,
+          "May": 11
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 45,
+        "Grand Total": 106,
+        "June": 33,
+        "May": 28
+      },
+      "Charges": {
+        "April": 12630.0,
+        "Grand Total": 31120.0,
+        "June": 10420.0,
+        "May": 8070.0
+      }
+    }
+  },
+  "Kara Waldrop": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 257,
+            "Total": 544,
+            "June": 112,
+            "May": 175
+          },
+          "99310": {
+            "April": 68,
+            "Total": 115,
+            "June": 10,
+            "May": 37
+          },
+          "99308": {
+            "April": 13,
+            "Total": 19,
+            "June": 4,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 338,
+          "Grand Total": 678,
+          "June": 126,
+          "May": 214
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 14,
+            "Total": 22,
+            "May": 8
+          },
+          "99315": {
+            "April": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "April": 18,
+          "Grand Total": 26,
+          "May": 8
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 356,
+        "Grand Total": 704,
+        "June": 126,
+        "May": 222
+      },
+      "Charges": {
+        "April": 71245.0,
+        "Grand Total": 139550.0,
+        "June": 23980.0,
+        "May": 44325.0
+      }
+    }
+  },
+  "Karen Vickers": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 436,
+            "Total": 987,
+            "June": 182,
+            "May": 369
+          },
+          "99308": {
+            "April": 32,
+            "Total": 102,
+            "June": 14,
+            "May": 56
+          },
+          "99310": {
+            "April": 21,
+            "Total": 52,
+            "June": 7,
+            "May": 24
+          }
+        },
+        "totals": {
+          "April": 489,
+          "Grand Total": 1141,
+          "June": 203,
+          "May": 449
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 2,
+            "Total": 7,
+            "May": 5
+          },
+          "99315": {
+            "April": 1,
+            "Total": 2,
+            "June": 1
+          }
+        },
+        "totals": {
+          "April": 3,
+          "Grand Total": 9,
+          "June": 1,
+          "May": 5
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 492,
+        "Grand Total": 1150,
+        "June": 204,
+        "May": 454
+      },
+      "Charges": {
+        "April": 91375.0,
+        "Grand Total": 212675.0,
+        "June": 37665.0,
+        "May": 83635.0
+      }
+    }
+  },
+  "Katrina Griffin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 125,
+            "Total": 125
+          },
+          "99309": {
+            "April": 18,
+            "Total": 18
+          },
+          "99310": {
+            "April": 10,
+            "Total": 10
+          },
+          "99307": {
+            "April": 6,
+            "Total": 6
+          }
+        },
+        "totals": {
+          "April": 159,
+          "Grand Total": 159
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 160,
+        "Grand Total": 160
+      },
+      "Charges": {
+        "April": 24280.0,
+        "Grand Total": 24280.0
+      }
+    }
+  },
+  "Kayla Tomlin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 222,
+            "Total": 449,
+            "June": 36,
+            "May": 191
+          },
+          "99309": {
+            "April": 200,
+            "Total": 600,
+            "June": 157,
+            "May": 243
+          },
+          "99310": {
+            "April": 59,
+            "Total": 109,
+            "June": 4,
+            "May": 46
+          }
+        },
+        "totals": {
+          "April": 481,
+          "Grand Total": 1158,
+          "June": 197,
+          "May": 480
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 7,
+            "Total": 14,
+            "May": 7
+          },
+          "99315": {
+            "April": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "April": 10,
+          "Grand Total": 17,
+          "May": 7
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 491,
+        "Grand Total": 1175,
+        "June": 197,
+        "May": 487
+      },
+      "Charges": {
+        "April": 85915.0,
+        "Grand Total": 206665.0,
+        "June": 35165.0,
+        "May": 85585.0
+      }
+    }
+  },
+  "Kelli Lane": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 266,
+            "Total": 810,
+            "June": 235,
+            "May": 309
+          },
+          "99308": {
+            "April": 66,
+            "Total": 269,
+            "June": 127,
+            "May": 76
+          },
+          "99310": {
+            "April": 16,
+            "Total": 49,
+            "June": 20,
+            "May": 13
+          }
+        },
+        "totals": {
+          "April": 348,
+          "Grand Total": 1128,
+          "June": 382,
+          "May": 398
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 5,
+            "Total": 5
+          },
+          "99315": {
+            "April": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "April": 8,
+          "Grand Total": 8
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 356,
+        "Grand Total": 1136,
+        "June": 382,
+        "May": 398
+      },
+      "Charges": {
+        "April": 64255.0,
+        "Grand Total": 202225.0,
+        "June": 66655.0,
+        "May": 71315.0
+      }
+    }
+  },
+  "Khoi Nguyen": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 13,
+            "Total": 52,
+            "June": 20,
+            "May": 19
+          },
+          "99305": {
+            "April": 4,
+            "Total": 18,
+            "June": 6,
+            "May": 8
+          },
+          "99304": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 18,
+          "Grand Total": 71,
+          "June": 26,
+          "May": 27
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 2,
+            "Total": 8,
+            "June": 5,
+            "May": 1
+          },
+          "99307": {
+            "April": 2,
+            "Total": 4,
+            "June": 2
+          },
+          "99308": {
+            "April": 1,
+            "Total": 4,
+            "June": 1,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 16,
+          "June": 8,
+          "May": 3
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 23,
+        "Grand Total": 87,
+        "June": 34,
+        "May": 30
+      },
+      "Charges": {
+        "April": 6200.0,
+        "Grand Total": 24420.0,
+        "June": 9405.0,
+        "May": 8815.0
+      }
+    }
+  },
+  "Kimberly Washbourne": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99307": {
+            "April": 55,
+            "Total": 55
+          },
+          "99309": {
+            "April": 50,
+            "Total": 50
+          },
+          "99308": {
+            "April": 38,
+            "Total": 38
+          },
+          "99310": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 144,
+          "Grand Total": 144
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 144,
+        "Grand Total": 144
+      },
+      "Charges": {
+        "April": 19790.0,
+        "Grand Total": 19790.0
+      }
+    }
+  },
+  "Kimberly Williams": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 116,
+            "Total": 452,
+            "June": 218,
+            "May": 118
+          },
+          "99308": {
+            "April": 65,
+            "Total": 162,
+            "June": 51,
+            "May": 46
+          },
+          "99310": {
+            "April": 18,
+            "Total": 53,
+            "June": 21,
+            "May": 14
+          }
+        },
+        "totals": {
+          "April": 199,
+          "Grand Total": 667,
+          "June": 290,
+          "May": 178
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 5,
+            "Total": 16,
+            "June": 5,
+            "May": 6
+          },
+          "99315": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 17,
+          "June": 6,
+          "May": 6
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 204,
+        "Grand Total": 684,
+        "June": 296,
+        "May": 184
+      },
+      "Charges": {
+        "April": 36470.0,
+        "Grand Total": 124115.0,
+        "June": 54335.0,
+        "May": 33310.0
+      }
+    }
+  },
+  "Kira Derby": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 68,
+            "Total": 208,
+            "June": 39,
+            "May": 101
+          },
+          "99309": {
+            "April": 14,
+            "Total": 33,
+            "June": 8,
+            "May": 11
+          }
+        },
+        "totals": {
+          "April": 82,
+          "Grand Total": 241,
+          "June": 47,
+          "May": 112
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 82,
+        "Grand Total": 241,
+        "June": 47,
+        "May": 112
+      },
+      "Charges": {
+        "April": 12110.0,
+        "Grand Total": 35225.0,
+        "June": 6940.0,
+        "May": 16175.0
+      }
+    }
+  },
+  "Krystal Woodson": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 338,
+            "Total": 914,
+            "June": 235,
+            "May": 341
+          },
+          "99308": {
+            "April": 119,
+            "Total": 369,
+            "June": 132,
+            "May": 118
+          },
+          "99310": {
+            "April": 34,
+            "Total": 106,
+            "June": 40,
+            "May": 32
+          }
+        },
+        "totals": {
+          "April": 491,
+          "Grand Total": 1389,
+          "June": 407,
+          "May": 491
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 23,
+            "Total": 56,
+            "May": 33
+          },
+          "99316": {
+            "April": 13,
+            "Total": 20,
+            "May": 7
+          }
+        },
+        "totals": {
+          "April": 36,
+          "Grand Total": 76,
+          "May": 40
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 527,
+        "Grand Total": 1465,
+        "June": 407,
+        "May": 531
+      },
+      "Charges": {
+        "April": 94435.0,
+        "Grand Total": 261690.0,
+        "June": 72755.0,
+        "May": 94500.0
+      }
+    }
+  },
+  "Laszlo Vecsei": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 186,
+            "Total": 443,
+            "June": 149,
+            "May": 108
+          },
+          "99309": {
+            "April": 140,
+            "Total": 580,
+            "June": 266,
+            "May": 174
+          },
+          "99310": {
+            "April": 34,
+            "Total": 61,
+            "June": 13,
+            "May": 14
+          },
+          "99307": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 361,
+          "Grand Total": 1085,
+          "June": 428,
+          "May": 296
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 361,
+        "Grand Total": 1085,
+        "June": 428,
+        "May": 296
+      },
+      "Charges": {
+        "April": 61210.0,
+        "Grand Total": 185880.0,
+        "June": 73580.0,
+        "May": 51090.0
+      }
+    }
+  },
+  "Linda Brown-Trudel": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 95,
+            "Total": 293,
+            "June": 57,
+            "May": 141
+          },
+          "99305": {
+            "June": 26,
+            "Total": 51,
+            "May": 25
+          }
+        },
+        "totals": {
+          "April": 95,
+          "Grand Total": 344,
+          "June": 83,
+          "May": 166
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 19,
+            "Total": 54,
+            "June": 32,
+            "May": 3
+          },
+          "99310": {
+            "April": 5,
+            "Total": 34,
+            "June": 29
+          },
+          "99308": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 26,
+          "Grand Total": 90,
+          "June": 61,
+          "May": 3
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 121,
+        "Grand Total": 434,
+        "June": 144,
+        "May": 169
+      },
+      "Charges": {
+        "April": 36495.0,
+        "Grand Total": 129400.0,
+        "June": 39320.0,
+        "May": 53585.0
+      }
+    }
+  },
+  "Lisa Reedy": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 463,
+            "Total": 1183,
+            "June": 329,
+            "May": 391
+          },
+          "99308": {
+            "April": 43,
+            "Total": 125,
+            "June": 38,
+            "May": 44
+          },
+          "99310": {
+            "June": 5,
+            "Total": 5
+          }
+        },
+        "totals": {
+          "April": 506,
+          "Grand Total": 1313,
+          "June": 372,
+          "May": 435
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 25,
+            "Total": 68,
+            "June": 21,
+            "May": 22
+          }
+        },
+        "totals": {
+          "April": 25,
+          "Grand Total": 68,
+          "June": 21,
+          "May": 22
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 531,
+        "Grand Total": 1381,
+        "June": 393,
+        "May": 457
+      },
+      "Charges": {
+        "April": 96925.0,
+        "Grand Total": 251985.0,
+        "June": 71945.0,
+        "May": 83115.0
+      }
+    }
+  },
+  "Lori Fuquay": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 250,
+            "Total": 782,
+            "June": 282,
+            "May": 250
+          },
+          "99308": {
+            "April": 136,
+            "Total": 323,
+            "June": 46,
+            "May": 141
+          },
+          "99310": {
+            "April": 20,
+            "Total": 57,
+            "June": 12,
+            "May": 25
+          }
+        },
+        "totals": {
+          "April": 406,
+          "Grand Total": 1162,
+          "June": 340,
+          "May": 416
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 11,
+            "Total": 26,
+            "June": 4,
+            "May": 11
+          },
+          "99315": {
+            "April": 4,
+            "Total": 9,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 15,
+          "Grand Total": 35,
+          "June": 4,
+          "May": 16
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 421,
+        "Grand Total": 1197,
+        "June": 344,
+        "May": 432
+      },
+      "Charges": {
+        "April": 73580.0,
+        "Grand Total": 212045.0,
+        "June": 62690.0,
+        "May": 75775.0
+      }
+    }
+  },
+  "Manaye Kebede": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99305": {
+            "April": 7,
+            "Total": 7
+          },
+          "99306": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 8,
+          "Grand Total": 8
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 16,
+            "Total": 16
+          }
+        },
+        "totals": {
+          "April": 16,
+          "Grand Total": 16
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 24,
+        "Grand Total": 24
+      },
+      "Charges": {
+        "April": 5110.0,
+        "Grand Total": 5110.0
+      }
+    }
+  },
+  "Mariana Herrera": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 155,
+            "Total": 424,
+            "June": 119,
+            "May": 150
+          },
+          "99309": {
+            "April": 29,
+            "Total": 366,
+            "June": 160,
+            "May": 177
+          },
+          "99310": {
+            "April": 9,
+            "Total": 62,
+            "June": 30,
+            "May": 23
+          }
+        },
+        "totals": {
+          "April": 193,
+          "Grand Total": 852,
+          "June": 309,
+          "May": 350
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 194,
+        "Grand Total": 853,
+        "June": 309,
+        "May": 350
+      },
+      "Charges": {
+        "April": 29640.0,
+        "Grand Total": 143955.0,
+        "June": 54360.0,
+        "May": 59955.0
+      }
+    }
+  },
+  "Mary Slagle": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 37,
+            "Total": 37
+          },
+          "99309": {
+            "April": 12,
+            "Total": 12
+          },
+          "99310": {
+            "April": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "April": 52,
+          "Grand Total": 52
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 52,
+        "Grand Total": 52
+      },
+      "Charges": {
+        "April": 8210.0,
+        "Grand Total": 8210.0
+      }
+    }
+  },
+  "May Anderson": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 224,
+            "Total": 751,
+            "June": 236,
+            "May": 291
+          },
+          "99310": {
+            "April": 31,
+            "Total": 106,
+            "June": 40,
+            "May": 35
+          },
+          "99308": {
+            "April": 11,
+            "Total": 43,
+            "June": 16,
+            "May": 16
+          }
+        },
+        "totals": {
+          "April": 266,
+          "Grand Total": 900,
+          "June": 292,
+          "May": 342
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 2,
+            "Total": 13,
+            "June": 4,
+            "May": 7
+          }
+        },
+        "totals": {
+          "April": 2,
+          "Grand Total": 13,
+          "June": 4,
+          "May": 7
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 268,
+        "Grand Total": 913,
+        "June": 296,
+        "May": 349
+      },
+      "Charges": {
+        "April": 51770.0,
+        "Grand Total": 176305.0,
+        "June": 57540.0,
+        "May": 66995.0
+      }
+    }
+  },
+  "Meladie Mitchell": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 356,
+            "Total": 954,
+            "June": 304,
+            "May": 294
+          },
+          "99310": {
+            "April": 27,
+            "Total": 98,
+            "June": 36,
+            "May": 35
+          },
+          "99308": {
+            "May": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 383,
+          "Grand Total": 1054,
+          "June": 340,
+          "May": 331
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 5,
+            "Total": 12,
+            "June": 2,
+            "May": 5
+          },
+          "99315": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 14,
+          "June": 4,
+          "May": 5
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 388,
+        "Grand Total": 1068,
+        "June": 344,
+        "May": 336
+      },
+      "Charges": {
+        "April": 74200.0,
+        "Grand Total": 206040.0,
+        "June": 66670.0,
+        "May": 65170.0
+      }
+    }
+  },
+  "Michael T Williams": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 12,
+            "Total": 67,
+            "June": 31,
+            "May": 24
+          }
+        },
+        "totals": {
+          "April": 12,
+          "Grand Total": 67,
+          "June": 31,
+          "May": 24
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 48,
+            "Total": 91,
+            "June": 6,
+            "May": 37
+          }
+        },
+        "totals": {
+          "April": 48,
+          "Grand Total": 91,
+          "June": 6,
+          "May": 37
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 60,
+        "Grand Total": 158,
+        "June": 37,
+        "May": 61
+      },
+      "Charges": {
+        "April": 12840.0,
+        "Grand Total": 38945.0,
+        "June": 11340.0,
+        "May": 14765.0
+      }
+    }
+  },
+  "Miranda Fields": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 182,
+            "Total": 535,
+            "June": 164,
+            "May": 189
+          },
+          "99308": {
+            "April": 117,
+            "Total": 356,
+            "June": 94,
+            "May": 145
+          },
+          "99310": {
+            "April": 4,
+            "Total": 52,
+            "June": 31,
+            "May": 17
+          },
+          "99307": {
+            "April": 3,
+            "Total": 9,
+            "June": 1,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 306,
+          "Grand Total": 952,
+          "June": 290,
+          "May": 356
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 1,
+            "Total": 1
+          },
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 2,
+          "May": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 307,
+        "Grand Total": 954,
+        "June": 290,
+        "May": 357
+      },
+      "Charges": {
+        "April": 51610.0,
+        "Grand Total": 164020.0,
+        "June": 51960.0,
+        "May": 60450.0
+      }
+    }
+  },
+  "Mitchell Guanzon": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 507,
+            "Total": 1428,
+            "June": 416,
+            "May": 505
+          },
+          "99310": {
+            "April": 14,
+            "Total": 53,
+            "June": 18,
+            "May": 21
+          }
+        },
+        "totals": {
+          "April": 521,
+          "Grand Total": 1481,
+          "June": 434,
+          "May": 526
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 10,
+            "Total": 12,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 10,
+          "Grand Total": 12,
+          "May": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 531,
+        "Grand Total": 1493,
+        "June": 434,
+        "May": 528
+      },
+      "Charges": {
+        "April": 99025.0,
+        "Grand Total": 280230.0,
+        "June": 81820.0,
+        "May": 99385.0
+      }
+    }
+  },
+  "Molly Vaughan": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 481,
+            "Total": 1111,
+            "June": 232,
+            "May": 398
+          },
+          "99308": {
+            "April": 123,
+            "Total": 369,
+            "June": 139,
+            "May": 107
+          },
+          "99310": {
+            "April": 39,
+            "Total": 86,
+            "June": 12,
+            "May": 35
+          }
+        },
+        "totals": {
+          "April": 643,
+          "Grand Total": 1566,
+          "June": 383,
+          "May": 540
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 13,
+            "Total": 40,
+            "June": 3,
+            "May": 24
+          },
+          "99315": {
+            "April": 1,
+            "Total": 7,
+            "June": 4,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 14,
+          "Grand Total": 47,
+          "June": 7,
+          "May": 26
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 657,
+        "Grand Total": 1613,
+        "June": 390,
+        "May": 566
+      },
+      "Charges": {
+        "April": 119610.0,
+        "Grand Total": 289830.0,
+        "June": 66830.0,
+        "May": 103390.0
+      }
+    }
+  },
+  "Monica Baldwin": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 34,
+            "Total": 34
+          },
+          "99309": {
+            "April": 9,
+            "Total": 9
+          },
+          "99310": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 45,
+          "Grand Total": 45
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 46,
+        "Grand Total": 46
+      },
+      "Charges": {
+        "April": 7175.0,
+        "Grand Total": 7175.0
+      }
+    }
+  },
+  "Natasha Estep": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 361,
+            "Total": 1003,
+            "June": 283,
+            "May": 359
+          },
+          "99308": {
+            "April": 170,
+            "Total": 519,
+            "June": 143,
+            "May": 206
+          },
+          "99310": {
+            "April": 10,
+            "Total": 35,
+            "June": 17,
+            "May": 8
+          },
+          "99307": {
+            "April": 3,
+            "Total": 4,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 544,
+          "Grand Total": 1561,
+          "June": 443,
+          "May": 574
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "April": 3,
+            "Total": 8,
+            "June": 2,
+            "May": 3
+          },
+          "99316": {
+            "April": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 10,
+          "June": 2,
+          "May": 3
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 549,
+        "Grand Total": 1571,
+        "June": 445,
+        "May": 577
+      },
+      "Charges": {
+        "April": 94410.0,
+        "Grand Total": 269605.0,
+        "June": 77255.0,
+        "May": 97940.0
+      }
+    }
+  },
+  "Neil Schwartzman": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 203,
+            "Total": 582,
+            "June": 187,
+            "May": 192
+          },
+          "99305": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 203,
+          "Grand Total": 583,
+          "June": 187,
+          "May": 193
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 184,
+            "Total": 585,
+            "June": 164,
+            "May": 237
+          }
+        },
+        "totals": {
+          "April": 184,
+          "Grand Total": 585,
+          "June": 164,
+          "May": 237
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 387,
+        "Grand Total": 1168,
+        "June": 351,
+        "May": 430
+      },
+      "Charges": {
+        "April": 101030.0,
+        "Grand Total": 300545.0,
+        "June": 92050.0,
+        "May": 107465.0
+      }
+    }
+  },
+  "Pamela Scholl": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 121,
+            "Total": 329,
+            "June": 56,
+            "May": 152
+          },
+          "99309": {
+            "April": 97,
+            "Total": 246,
+            "June": 52,
+            "May": 97
+          },
+          "99310": {
+            "April": 20,
+            "Total": 59,
+            "June": 16,
+            "May": 23
+          }
+        },
+        "totals": {
+          "April": 238,
+          "Grand Total": 634,
+          "June": 124,
+          "May": 272
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 4,
+            "Total": 7,
+            "June": 1,
+            "May": 2
+          },
+          "99315": {
+            "April": 2,
+            "Total": 6,
+            "June": 2,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 6,
+          "Grand Total": 13,
+          "June": 3,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 244,
+        "Grand Total": 647,
+        "June": 127,
+        "May": 276
+      },
+      "Charges": {
+        "April": 41415.0,
+        "Grand Total": 109840.0,
+        "June": 22280.0,
+        "May": 46145.0
+      }
+    }
+  },
+  "Rebecca Green": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 513,
+            "Total": 1012,
+            "June": 239,
+            "May": 260
+          },
+          "99308": {
+            "April": 303,
+            "Total": 1020,
+            "June": 312,
+            "May": 405
+          }
+        },
+        "totals": {
+          "April": 816,
+          "Grand Total": 2032,
+          "June": 551,
+          "May": 665
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 30,
+            "Total": 54,
+            "June": 2,
+            "May": 22
+          },
+          "99315": {
+            "June": 18,
+            "Total": 20,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 30,
+          "Grand Total": 74,
+          "June": 20,
+          "May": 24
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 846,
+        "Grand Total": 2106,
+        "June": 571,
+        "May": 689
+      },
+      "Charges": {
+        "April": 143625.0,
+        "Grand Total": 344260.0,
+        "June": 90925.0,
+        "May": 109710.0
+      }
+    }
+  },
+  "Sandra Kolb": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "June": 7,
+            "Total": 7
+          },
+          "99305": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 9,
+          "Grand Total": 9
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 418,
+            "Total": 966,
+            "June": 384,
+            "May": 164
+          },
+          "99310": {
+            "April": 39,
+            "Total": 70,
+            "June": 20,
+            "May": 11
+          },
+          "99308": {
+            "April": 6,
+            "Total": 6
+          }
+        },
+        "totals": {
+          "April": 463,
+          "Grand Total": 1042,
+          "June": 404,
+          "May": 175
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 8,
+            "Total": 13,
+            "June": 3,
+            "May": 2
+          },
+          "99315": {
+            "April": 1,
+            "Total": 6,
+            "June": 3,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 9,
+          "Grand Total": 19,
+          "June": 6,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 472,
+        "Grand Total": 1070,
+        "June": 419,
+        "May": 179
+      },
+      "Charges": {
+        "April": 90525.0,
+        "Grand Total": 204880.0,
+        "June": 80335.0,
+        "May": 34020.0
+      }
+    }
+  },
+  "Sarah Wells": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 595,
+            "Total": 1516,
+            "June": 465,
+            "May": 456
+          },
+          "99310": {
+            "April": 61,
+            "Total": 179,
+            "June": 43,
+            "May": 75
+          },
+          "99308": {
+            "June": 3,
+            "Total": 5,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 656,
+          "Grand Total": 1700,
+          "June": 511,
+          "May": 533
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 18,
+            "Total": 65,
+            "June": 18,
+            "May": 29
+          }
+        },
+        "totals": {
+          "April": 18,
+          "Grand Total": 65,
+          "June": 18,
+          "May": 29
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 674,
+        "Grand Total": 1765,
+        "June": 529,
+        "May": 562
+      },
+      "Charges": {
+        "April": 130325.0,
+        "Grand Total": 343140.0,
+        "June": 101835.0,
+        "May": 110980.0
+      }
+    }
+  },
+  "Saree Allen": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 386,
+            "Total": 1162,
+            "June": 329,
+            "May": 447
+          },
+          "99310": {
+            "April": 59,
+            "Total": 204,
+            "June": 54,
+            "May": 91
+          },
+          "99308": {
+            "April": 3,
+            "Total": 9,
+            "June": 3,
+            "May": 3
+          }
+        },
+        "totals": {
+          "April": 448,
+          "Grand Total": 1375,
+          "June": 386,
+          "May": 541
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 12,
+            "Total": 32,
+            "June": 6,
+            "May": 14
+          },
+          "99315": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 13,
+          "Grand Total": 33,
+          "June": 6,
+          "May": 14
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 461,
+        "Grand Total": 1408,
+        "June": 392,
+        "May": 555
+      },
+      "Charges": {
+        "April": 90425.0,
+        "Grand Total": 278175.0,
+        "June": 77125.0,
+        "May": 110625.0
+      }
+    }
+  },
+  "Shannon Hill": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 326,
+            "Total": 1002,
+            "June": 351,
+            "May": 325
+          },
+          "99308": {
+            "April": 157,
+            "Total": 352,
+            "June": 111,
+            "May": 84
+          },
+          "99310": {
+            "April": 18,
+            "Total": 65,
+            "June": 18,
+            "May": 29
+          },
+          "99307": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 502,
+          "Grand Total": 1420,
+          "June": 480,
+          "May": 438
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 12,
+            "Total": 36,
+            "June": 20,
+            "May": 4
+          },
+          "99315": {
+            "April": 13,
+            "Total": 35,
+            "June": 10,
+            "May": 12
+          }
+        },
+        "totals": {
+          "April": 25,
+          "Grand Total": 71,
+          "June": 30,
+          "May": 16
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 527,
+        "Grand Total": 1491,
+        "June": 510,
+        "May": 454
+      },
+      "Charges": {
+        "April": 91645.0,
+        "Grand Total": 264925.0,
+        "June": 90985.0,
+        "May": 82295.0
+      }
+    }
+  },
+  "Shelly Bass": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 240,
+            "Total": 294,
+            "May": 54
+          },
+          "99308": {
+            "April": 123,
+            "Total": 139,
+            "May": 16
+          },
+          "99310": {
+            "April": 28,
+            "Total": 31,
+            "May": 3
+          }
+        },
+        "totals": {
+          "April": 391,
+          "Grand Total": 464,
+          "May": 73
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 9,
+            "Total": 12,
+            "May": 3
+          },
+          "99315": {
+            "April": 3,
+            "Total": 4,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 12,
+          "Grand Total": 16,
+          "May": 4
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 403,
+        "Grand Total": 480,
+        "May": 77
+      },
+      "Charges": {
+        "April": 71505.0,
+        "Grand Total": 85320.0,
+        "May": 13815.0
+      }
+    }
+  },
+  "Sherlene Blackwood": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 272,
+            "Total": 890,
+            "June": 346,
+            "May": 272
+          },
+          "99310": {
+            "April": 147,
+            "Total": 207,
+            "June": 20,
+            "May": 40
+          },
+          "99308": {
+            "April": 64,
+            "Total": 292,
+            "June": 103,
+            "May": 125
+          }
+        },
+        "totals": {
+          "April": 483,
+          "Grand Total": 1389,
+          "June": 469,
+          "May": 437
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 8,
+            "Total": 17,
+            "June": 9
+          },
+          "99315": {
+            "April": 5,
+            "Total": 26,
+            "June": 6,
+            "May": 15
+          }
+        },
+        "totals": {
+          "April": 13,
+          "Grand Total": 43,
+          "June": 15,
+          "May": 15
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 496,
+        "Grand Total": 1432,
+        "June": 484,
+        "May": 452
+      },
+      "Charges": {
+        "April": 101375.0,
+        "Grand Total": 268760.0,
+        "June": 86590.0,
+        "May": 80795.0
+      }
+    }
+  },
+  "Syed Ishaq": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 128,
+            "Total": 236,
+            "June": 45,
+            "May": 63
+          },
+          "99305": {
+            "April": 2,
+            "Total": 13,
+            "May": 11
+          }
+        },
+        "totals": {
+          "April": 130,
+          "Grand Total": 249,
+          "June": 45,
+          "May": 74
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 38,
+            "Total": 179,
+            "June": 94,
+            "May": 47
+          }
+        },
+        "totals": {
+          "April": 38,
+          "Grand Total": 179,
+          "June": 94,
+          "May": 47
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 168,
+        "Grand Total": 428,
+        "June": 139,
+        "May": 121
+      },
+      "Charges": {
+        "April": 49790.0,
+        "Grand Total": 114375.0,
+        "June": 32240.0,
+        "May": 32345.0
+      }
+    }
+  },
+  "Taneisha Gayles": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "May": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "May": 2,
+          "Grand Total": 2
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 238,
+            "Total": 499,
+            "June": 55,
+            "May": 206
+          },
+          "99308": {
+            "April": 156,
+            "Total": 457,
+            "June": 103,
+            "May": 198
+          },
+          "99310": {
+            "April": 10,
+            "Total": 38,
+            "June": 9,
+            "May": 19
+          }
+        },
+        "totals": {
+          "April": 404,
+          "Grand Total": 994,
+          "June": 167,
+          "May": 423
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 4,
+            "Total": 4
+          },
+          "99315": {
+            "April": 1,
+            "Total": 3,
+            "May": 2
+          }
+        },
+        "totals": {
+          "April": 5,
+          "Grand Total": 7,
+          "May": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 409,
+        "Grand Total": 1003,
+        "June": 167,
+        "May": 427
+      },
+      "Charges": {
+        "April": 69555.0,
+        "Grand Total": 168490.0,
+        "June": 27025.0,
+        "May": 71910.0
+      }
+    }
+  },
+  "Tennillya Pearce": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 189,
+            "Total": 499,
+            "June": 135,
+            "May": 175
+          },
+          "99308": {
+            "April": 127,
+            "Total": 359,
+            "June": 79,
+            "May": 153
+          },
+          "99310": {
+            "April": 27,
+            "Total": 73,
+            "June": 22,
+            "May": 24
+          }
+        },
+        "totals": {
+          "April": 343,
+          "Grand Total": 931,
+          "June": 236,
+          "May": 352
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 14,
+            "Total": 32,
+            "June": 1,
+            "May": 17
+          }
+        },
+        "totals": {
+          "April": 14,
+          "Grand Total": 32,
+          "June": 1,
+          "May": 17
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 357,
+        "Grand Total": 963,
+        "June": 237,
+        "May": 369
+      },
+      "Charges": {
+        "April": 62975.0,
+        "Grand Total": 169005.0,
+        "June": 42185.0,
+        "May": 63845.0
+      }
+    }
+  },
+  "Tiffany Curry": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 199,
+            "Total": 543,
+            "June": 145,
+            "May": 199
+          },
+          "99308": {
+            "April": 84,
+            "Total": 222,
+            "June": 56,
+            "May": 82
+          },
+          "99310": {
+            "April": 13,
+            "Total": 37,
+            "June": 10,
+            "May": 14
+          }
+        },
+        "totals": {
+          "April": 296,
+          "Grand Total": 802,
+          "June": 211,
+          "May": 295
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 3,
+            "Total": 8,
+            "May": 5
+          },
+          "99315": {
+            "April": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 4,
+          "Grand Total": 9,
+          "May": 5
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 300,
+        "Grand Total": 811,
+        "June": 211,
+        "May": 300
+      },
+      "Charges": {
+        "April": 52860.0,
+        "Grand Total": 143350.0,
+        "June": 37365.0,
+        "May": 53125.0
+      }
+    }
+  },
+  "Tiffany Douglas": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 372,
+            "Total": 924,
+            "June": 195,
+            "May": 357
+          },
+          "99308": {
+            "April": 50,
+            "Total": 157,
+            "June": 40,
+            "May": 67
+          },
+          "99310": {
+            "April": 43,
+            "Total": 122,
+            "June": 33,
+            "May": 46
+          }
+        },
+        "totals": {
+          "April": 465,
+          "Grand Total": 1203,
+          "June": 268,
+          "May": 470
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 3,
+            "Total": 33,
+            "June": 3,
+            "May": 27
+          }
+        },
+        "totals": {
+          "April": 3,
+          "Grand Total": 33,
+          "June": 3,
+          "May": 27
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 468,
+        "Grand Total": 1236,
+        "June": 271,
+        "May": 497
+      },
+      "Charges": {
+        "April": 88060.0,
+        "Grand Total": 232790.0,
+        "June": 51215.0,
+        "May": 93515.0
+      }
+    }
+  },
+  "Tiffany English": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "June": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "June": 3,
+          "Grand Total": 3
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 419,
+            "Total": 1116,
+            "June": 348,
+            "May": 349
+          },
+          "99310": {
+            "April": 61,
+            "Total": 142,
+            "June": 46,
+            "May": 35
+          },
+          "99308": {
+            "April": 24,
+            "Total": 101,
+            "June": 36,
+            "May": 41
+          }
+        },
+        "totals": {
+          "April": 504,
+          "Grand Total": 1359,
+          "June": 430,
+          "May": 425
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 20,
+            "Total": 57,
+            "June": 18,
+            "May": 19
+          },
+          "99315": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "April": 20,
+          "Grand Total": 58,
+          "June": 18,
+          "May": 20
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 524,
+        "Grand Total": 1420,
+        "June": 451,
+        "May": 445
+      },
+      "Charges": {
+        "April": 101545.0,
+        "Grand Total": 272045.0,
+        "June": 86610.0,
+        "May": 83890.0
+      }
+    }
+  },
+  "Timothy Mckernan": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 131,
+            "Total": 349,
+            "June": 88,
+            "May": 130
+          },
+          "99305": {
+            "April": 8,
+            "Total": 51,
+            "June": 18,
+            "May": 25
+          }
+        },
+        "totals": {
+          "April": 139,
+          "Grand Total": 400,
+          "June": 106,
+          "May": 155
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "April": 132,
+            "Total": 443,
+            "June": 196,
+            "May": 115
+          },
+          "99309": {
+            "April": 8,
+            "Total": 23,
+            "June": 10,
+            "May": 5
+          }
+        },
+        "totals": {
+          "April": 140,
+          "Grand Total": 466,
+          "June": 206,
+          "May": 120
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 279,
+        "Grand Total": 866,
+        "June": 312,
+        "May": 275
+      },
+      "Charges": {
+        "April": 65270.0,
+        "Grand Total": 194705.0,
+        "June": 63010.0,
+        "May": 66425.0
+      }
+    }
+  },
+  "Tracy Goen": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 44,
+            "Total": 102,
+            "June": 27,
+            "May": 31
+          },
+          "99305": {
+            "April": 11,
+            "Total": 47,
+            "June": 15,
+            "May": 21
+          }
+        },
+        "totals": {
+          "April": 55,
+          "Grand Total": 149,
+          "June": 42,
+          "May": 52
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 2,
+            "Total": 66,
+            "June": 29,
+            "May": 35
+          },
+          "99308": {
+            "April": 2,
+            "Total": 3,
+            "May": 1
+          }
+        },
+        "totals": {
+          "April": 4,
+          "Grand Total": 69,
+          "June": 29,
+          "May": 36
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 59,
+        "Grand Total": 218,
+        "June": 71,
+        "May": 88
+      },
+      "Charges": {
+        "April": 18030.0,
+        "Grand Total": 58510.0,
+        "June": 18175.0,
+        "May": 22305.0
+      }
+    }
+  },
+  "Wallisa Vaughn": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "April": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "April": 4,
+          "Grand Total": 4
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 4,
+        "Grand Total": 4
+      },
+      "Charges": {
+        "April": 1320.0,
+        "Grand Total": 1320.0
+      }
+    }
+  },
+  "Zachary Page": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "April": 478,
+            "Total": 1292,
+            "June": 328,
+            "May": 486
+          },
+          "99308": {
+            "April": 36,
+            "Total": 204,
+            "June": 120,
+            "May": 48
+          },
+          "99310": {
+            "April": 21,
+            "Total": 55,
+            "June": 14,
+            "May": 20
+          }
+        },
+        "totals": {
+          "April": 535,
+          "Grand Total": 1551,
+          "June": 462,
+          "May": 554
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "April": 19,
+            "Total": 37,
+            "June": 2,
+            "May": 16
+          },
+          "99315": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "April": 19,
+          "Grand Total": 39,
+          "June": 4,
+          "May": 16
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "April": 554,
+        "Grand Total": 1590,
+        "June": 466,
+        "May": 570
+      },
+      "Charges": {
+        "April": 103130.0,
+        "Grand Total": 290490.0,
+        "June": 81970.0,
+        "May": 105390.0
+      }
+    }
+  },
+  "Anthony Slonim": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "June": 55,
+            "Total": 55
+          },
+          "99305": {
+            "June": 31,
+            "Total": 31
+          },
+          "99304": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 88,
+          "Grand Total": 88
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 25,
+            "Total": 25
+          }
+        },
+        "totals": {
+          "June": 25,
+          "Grand Total": 25
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 113,
+        "Grand Total": 113
+      },
+      "Charges": {
+        "June": 31195.0,
+        "Grand Total": 31195.0
+      }
+    }
+  },
+  "Benjamin Davis": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "June": 12,
+            "Total": 12
+          },
+          "99305": {
+            "June": 8,
+            "Total": 8
+          }
+        },
+        "totals": {
+          "June": 20,
+          "Grand Total": 20
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 29,
+            "Total": 29
+          },
+          "99307": {
+            "June": 11,
+            "Total": 11
+          },
+          "99309": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 42,
+          "Grand Total": 42
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 64,
+        "Grand Total": 64
+      },
+      "Charges": {
+        "June": 11880.0,
+        "Grand Total": 11880.0
+      }
+    }
+  },
+  "Cody Hughes": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 49,
+            "Total": 66,
+            "May": 17
+          },
+          "99309": {
+            "June": 18,
+            "Total": 24,
+            "May": 6
+          },
+          "99310": {
+            "June": 9,
+            "Total": 11,
+            "May": 2
+          }
+        },
+        "totals": {
+          "June": 76,
+          "Grand Total": 101,
+          "May": 25
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "June": 6,
+            "Total": 6
+          }
+        },
+        "totals": {
+          "June": 6,
+          "Grand Total": 6
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 82,
+        "Grand Total": 107,
+        "May": 25
+      },
+      "Charges": {
+        "June": 13490.0,
+        "Grand Total": 17520.0,
+        "May": 4030.0
+      }
+    }
+  },
+  "Gene Bailey Jr.": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 40,
+            "Total": 40
+          },
+          "99308": {
+            "June": 30,
+            "Total": 30
+          },
+          "99310": {
+            "June": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "June": 74,
+          "Grand Total": 74
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 74,
+        "Grand Total": 74
+      },
+      "Charges": {
+        "June": 12680.0,
+        "Grand Total": 12680.0
+      }
+    }
+  },
+  "Isabelle Tubbs": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 299,
+            "Total": 390,
+            "May": 91
+          },
+          "99308": {
+            "June": 122,
+            "Total": 152,
+            "May": 30
+          },
+          "99310": {
+            "June": 17,
+            "Total": 19,
+            "May": 2
+          }
+        },
+        "totals": {
+          "June": 438,
+          "Grand Total": 561,
+          "May": 123
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 2,
+            "Total": 3,
+            "May": 1
+          }
+        },
+        "totals": {
+          "June": 2,
+          "Grand Total": 3,
+          "May": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 440,
+        "Grand Total": 564,
+        "May": 124
+      },
+      "Charges": {
+        "June": 77405.0,
+        "Grand Total": 99190.0,
+        "May": 21785.0
+      }
+    }
+  },
+  "Jingwen Mu": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 105,
+            "Total": 105
+          },
+          "99308": {
+            "June": 31,
+            "Total": 31
+          },
+          "99310": {
+            "June": 16,
+            "Total": 16
+          }
+        },
+        "totals": {
+          "June": 152,
+          "Grand Total": 152
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "June": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 153,
+        "Grand Total": 153
+      },
+      "Charges": {
+        "June": 28295.0,
+        "Grand Total": 28295.0
+      }
+    }
+  },
+  "Kimaka Bowens": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 204,
+            "Total": 204
+          },
+          "99309": {
+            "June": 15,
+            "Total": 15
+          }
+        },
+        "totals": {
+          "June": 219,
+          "Grand Total": 219
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "June": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 220,
+        "Grand Total": 220
+      },
+      "Charges": {
+        "June": 31545.0,
+        "Grand Total": 31545.0
+      }
+    }
+  },
+  "Kreig Spahn": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {
+          "99306": {
+            "June": 14,
+            "Total": 14
+          },
+          "99305": {
+            "June": 4,
+            "Total": 4
+          },
+          "99304": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "June": 19,
+          "Grand Total": 19
+        }
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 23,
+            "Total": 23
+          },
+          "99308": {
+            "June": 18,
+            "Total": 18
+          },
+          "99310": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "June": 42,
+          "Grand Total": 42
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 61,
+        "Grand Total": 61
+      },
+      "Charges": {
+        "June": 12885.0,
+        "Grand Total": 12885.0
+      }
+    }
+  },
+  "Lisa Coleman": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 302,
+            "Total": 420,
+            "May": 118
+          },
+          "99309": {
+            "June": 258,
+            "Total": 386,
+            "May": 128
+          },
+          "99310": {
+            "June": 24,
+            "Total": 34,
+            "May": 10
+          }
+        },
+        "totals": {
+          "June": 584,
+          "Grand Total": 840,
+          "May": 256
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99315": {
+            "June": 13,
+            "Total": 16,
+            "May": 3
+          }
+        },
+        "totals": {
+          "June": 13,
+          "Grand Total": 16,
+          "May": 3
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 597,
+        "Grand Total": 856,
+        "May": 259
+      },
+      "Charges": {
+        "June": 98375.0,
+        "Grand Total": 141710.0,
+        "May": 43335.0
+      }
+    }
+  },
+  "Lori Beucler": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 289,
+            "Total": 435,
+            "May": 146
+          },
+          "99307": {
+            "June": 16,
+            "Total": 19,
+            "May": 3
+          },
+          "99310": {
+            "June": 9,
+            "Total": 26,
+            "May": 17
+          },
+          "99309": {
+            "June": 6,
+            "Total": 12,
+            "May": 6
+          }
+        },
+        "totals": {
+          "June": 320,
+          "Grand Total": 492,
+          "May": 172
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "May": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "May": 1,
+          "Grand Total": 1
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 320,
+        "Grand Total": 493,
+        "May": 173
+      },
+      "Charges": {
+        "June": 45440.0,
+        "Grand Total": 72060.0,
+        "May": 26620.0
+      }
+    }
+  },
+  "Mary Catherine Prickett": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 57,
+            "Total": 57
+          },
+          "99310": {
+            "June": 1,
+            "Total": 1
+          }
+        },
+        "totals": {
+          "June": 58,
+          "Grand Total": 58
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 58,
+        "Grand Total": 58
+      },
+      "Charges": {
+        "June": 10815.0,
+        "Grand Total": 10815.0
+      }
+    }
+  },
+  "Megan Osborne": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 171,
+            "Total": 187,
+            "May": 16
+          },
+          "99308": {
+            "June": 110,
+            "Total": 128,
+            "May": 18
+          },
+          "99310": {
+            "June": 28,
+            "Total": 28
+          }
+        },
+        "totals": {
+          "June": 309,
+          "Grand Total": 343,
+          "May": 34
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 2,
+          "Grand Total": 2
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 311,
+        "Grand Total": 345,
+        "May": 34
+      },
+      "Charges": {
+        "June": 55015.0,
+        "Grand Total": 60495.0,
+        "May": 5480.0
+      }
+    }
+  },
+  "Shanthi Rondot": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 207,
+            "Total": 267,
+            "May": 60
+          },
+          "99308": {
+            "June": 77,
+            "Total": 130,
+            "May": 53
+          },
+          "99310": {
+            "June": 42,
+            "Total": 44,
+            "May": 2
+          }
+        },
+        "totals": {
+          "June": 326,
+          "Grand Total": 441,
+          "May": 115
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {
+          "99316": {
+            "June": 16,
+            "Total": 19,
+            "May": 3
+          },
+          "99315": {
+            "June": 3,
+            "Total": 3
+          }
+        },
+        "totals": {
+          "June": 19,
+          "Grand Total": 22,
+          "May": 3
+        }
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 345,
+        "Grand Total": 463,
+        "May": 118
+      },
+      "Charges": {
+        "June": 64210.0,
+        "Grand Total": 83900.0,
+        "May": 19690.0
+      }
+    }
+  },
+  "Tammi Hampton": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 20,
+            "Total": 20
+          },
+          "99309": {
+            "June": 9,
+            "Total": 9
+          }
+        },
+        "totals": {
+          "June": 29,
+          "Grand Total": 29
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 29,
+        "Grand Total": 29
+      },
+      "Charges": {
+        "June": 4465.0,
+        "Grand Total": 4465.0
+      }
+    }
+  },
+  "Tracy Keisling": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99308": {
+            "June": 192,
+            "Total": 323,
+            "May": 131
+          },
+          "99309": {
+            "June": 30,
+            "Total": 48,
+            "May": 18
+          },
+          "99310": {
+            "June": 13,
+            "Total": 22,
+            "May": 9
+          },
+          "99307": {
+            "May": 2,
+            "Total": 2
+          }
+        },
+        "totals": {
+          "June": 235,
+          "Grand Total": 395,
+          "May": 160
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 235,
+        "Grand Total": 395,
+        "May": 160
+      },
+      "Charges": {
+        "June": 35940.0,
+        "Grand Total": 60220.0,
+        "May": 24280.0
+      }
+    }
+  },
+  "Trixy Headden": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "June": 11,
+            "Total": 22,
+            "May": 11
+          },
+          "99308": {
+            "June": 7,
+            "Total": 10,
+            "May": 3
+          },
+          "99310": {
+            "May": 4,
+            "Total": 4
+          }
+        },
+        "totals": {
+          "June": 18,
+          "Grand Total": 36,
+          "May": 18
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "June": 18,
+        "Grand Total": 36,
+        "May": 18
+      },
+      "Charges": {
+        "June": 3015.0,
+        "Grand Total": 6550.0,
+        "May": 3535.0
+      }
+    }
+  },
+  "Diane Blair": {
+    "visitData": {
+      "Initial Visits": {
+        "cpt_codes": {},
+        "totals": {}
+      },
+      "Subsequent Visits": {
+        "cpt_codes": {
+          "99309": {
+            "May": 16,
+            "Total": 16
+          },
+          "99308": {
+            "May": 12,
+            "Total": 12
+          }
+        },
+        "totals": {
+          "May": 28,
+          "Grand Total": 28
+        }
+      },
+      "Discharge": {
+        "cpt_codes": {},
+        "totals": {}
+      }
+    },
+    "monthly_kpis": {
+      "Total Visits": {
+        "May": 28,
+        "Grand Total": 28
+      },
+      "Charges": {
+        "May": 4640.0,
+        "Grand Total": 4640.0
+      }
+    }
+  }
+}
