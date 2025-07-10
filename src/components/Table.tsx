@@ -10,17 +10,16 @@ import { Typography } from "@mui/material";
 import { ProviderData } from '../App.tsx';
 
 // Define the structure of the provider data prop
-// interface ProviderData {
-//   visitData: {
-//     [category: string]: {
-//       cpt_codes: { [code: string]: { [month: string]: number } };
-//       totals: { [month: string]: number };
-//     };
-//   };
-//   monthly_kpis: {
-//     [kpi: string]: { [month: string]: number };
-//   };
-// }
+interface KpiData {
+  cpts: {
+    [cpt: string]: {
+      [monthOrTotal: string]: number;
+    };
+  };
+  totals: {
+    [monthOrTotal: string]: number;
+  };
+}
 
 interface FinancialKpiTableProps {
   providerData: ProviderData | null;
@@ -81,10 +80,10 @@ const FinancialKpiTable: React.FC<FinancialKpiTableProps> = ({ providerData }) =
           </TableRow>
         </TableHead>
         <TableBody>
-          {Object.entries(visitData).map(([section, data]) => (
+          {Object.entries(visitData).map(([section, data]: [string, any]) => (
             <React.Fragment key={section}>
               {/* CPT Code Rows */}
-              {Object.entries(data.cpt_codes).map(([cpt, values], rowIdx) => (
+              {Object.entries(data.cpt_codes).map(([cpt, values]: [string, any], rowIdx) => (
                 <TableRow key={cpt}>
                   {rowIdx === 0 && (
                     <TableCell
@@ -132,7 +131,7 @@ const FinancialKpiTable: React.FC<FinancialKpiTableProps> = ({ providerData }) =
           {/* Spacer Row */}
           <TableRow sx={{ height: 10 }}><TableCell colSpan={MONTHS.length + 3} /></TableRow>
           {/* Monthly KPIs Section */}
-          {Object.entries(monthly_kpis).map(([kpi, values]) => (
+          {Object.entries(monthly_kpis).map(([kpi, values]: [string, any]) => (
             <TableRow key={kpi}>
               <TableCell colSpan={2} sx={{ fontWeight: 600, fontSize: '0.8rem' }}>{kpi}</TableCell>
               {MONTHS.map((month, index) => (
