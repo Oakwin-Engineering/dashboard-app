@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import {
   List,
   ListItemButton,
@@ -8,87 +8,113 @@ import {
   Box,
 } from "@mui/material";
 import { ExpandLess, ExpandMore } from "@mui/icons-material";
-import { navData } from "../data/navData.ts";
+import { loadNavData, NavDataItem } from "../data/navDataLoader.ts";
 import { SvgIconComponent } from "@mui/icons-material";
 
-export type NavItem = {
-  label: string;
-  icon: SvgIconComponent;
-  type?: string;
-  children?: NavItem[];
-};
-
-type NestedListProps = {
-  items?: NavItem[];
-  onSelect: (item: NavItem, path: string[]) => void;
+interface NavItemProps {
+  item: NavDataItem;
+  level: number;
+  onSelect: (item: NavDataItem, path: string[]) => void;
   selectedPath: string[];
   parentPath?: string[];
-};
+}
 
-const NestedList: React.FC<NestedListProps> = ({
-  items = navData,
+const NavItem: React.FC<NavItemProps> = ({
+  item,
+  level,
   onSelect,
   selectedPath,
   parentPath = [],
 }) => {
-  const [open, setOpen] = useState<{ [key: string]: boolean }>({});
+  const [open, setOpen] = useState(false);
 
-  const handleClick = (label: string) => {
-    setOpen((prev) => ({ ...prev, [label]: !prev[label] }));
+  const handleClick = () => {
+    setOpen(!open);
   };
+
+  const currentPath = [...parentPath, item.label];
+  const isSelected =
+    selectedPath.length === currentPath.length &&
+    selectedPath.every((v, i) => v === currentPath[i]);
+
+  return (
+    <React.Fragment>
+      <ListItemButton
+        sx={{
+          pl: 2 * (level + 1),
+          bgcolor: isSelected ? "#e3f2fd" : undefined,
+        }}
+        onClick={() => {
+          if (item.children && item.children.length > 0) {
+            handleClick();
+            onSelect(item, currentPath);
+          } else {
+            onSelect(item, currentPath);
+          }
+        }}
+        selected={isSelected}
+      >
+        <ListItemIcon>{React.createElement(item.icon)}</ListItemIcon>
+        <ListItemText primary={item.label} />
+        {item.children ? (
+          open ? (
+            <ExpandLess />
+          ) : (
+            <ExpandMore />
+          )
+        ) : null}
+      </ListItemButton>
+      {item.children && (
+        <Collapse in={open} timeout="auto" unmountOnExit>
+          <Box sx={{ pl: 2 }}>
+            {item.children.map((child, index) => (
+              <NavItem
+                key={index}
+                item={child}
+                level={level + 1}
+                onSelect={onSelect}
+                selectedPath={selectedPath}
+                parentPath={currentPath}
+              />
+            ))}
+          </Box>
+        </Collapse>
+      )}
+    </React.Fragment>
+  );
+};
+
+interface NestedListProps {
+  onSelect: (item: NavDataItem, path: string[]) => void;
+  selectedPath: string[];
+}
+
+const NestedList: React.FC<NestedListProps> = ({
+  onSelect,
+  selectedPath,
+}) => {
+  const [navData, setNavData] = React.useState<NavDataItem[]>([]);
+
+  useEffect(() => {
+    const fetchNavData = async () => {
+      const data = await loadNavData();
+      setNavData(data);
+    };
+
+    fetchNavData();
+  }, []);
 
   return (
     <List component="nav" disablePadding>
-      {items.map((item) => {
-        const currentPath = [...parentPath, item.label];
-        const isSelected =
-          selectedPath.length === currentPath.length &&
-          selectedPath.every((v, i) => v === currentPath[i]);
-        return (
-          <React.Fragment key={item.label}>
-            <ListItemButton
-              sx={{
-                pl: 2 * (currentPath.length - 1),
-                bgcolor: isSelected ? "#e3f2fd" : undefined,
-              }}
-              onClick={() => {
-                if (item.type === "healthcare") {
-                  handleClick(item.label);
-                  onSelect(item, currentPath);
-                } else if (item.type === "person") {
-                  onSelect(item, currentPath);
-                } else if (item.children && item.children.length > 0) {
-                  handleClick(item.label);
-                  onSelect(item, currentPath);
-                }
-              }}
-              selected={isSelected}
-            >
-              <ListItemIcon>{React.createElement(item.icon)}</ListItemIcon>
-              <ListItemText primary={item.label} />
-              {item.children ? (
-                open[item.label] ? (
-                  <ExpandLess />
-                ) : (
-                  <ExpandMore />
-                )
-              ) : null}
-            </ListItemButton>
-            {item.children && (
-              <Collapse in={open[item.label]} timeout="auto" unmountOnExit>
-                <Box sx={{ pl: 2 }}>
-                  <NestedList
-                    items={item.children}
-                    onSelect={onSelect}
-                    selectedPath={selectedPath}
-                    parentPath={currentPath}
-                  />
-                </Box>
-              </Collapse>
-            )}
-          </React.Fragment>
-        );
-      })}
+      {navData.map((item, index) => (
+        <NavItem
+          key={index}
+          item={item}
+          level={0}
+          onSelect={onSelect}
+          selectedPath={selectedPath}
+        />
+      ))}
     </List>
   );
 };
