@@ -3,4 +3,4 @@
   publish = "build"
 
 [[plugins]]
-  package = "@netlify/plugin-cache-core"
+  package = "netlify-plugin-cache"
