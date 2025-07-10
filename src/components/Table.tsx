@@ -9,18 +9,6 @@ import Paper from "@mui/material/Paper";
 import { Typography } from "@mui/material";
 import { ProviderData } from '../App.tsx';
 
-// Define the structure of the provider data prop
-interface KpiData {
-  cpts: {
-    [cpt: string]: {
-      [monthOrTotal: string]: number;
-    };
-  };
-  totals: {
-    [monthOrTotal: string]: number;
-  };
-}
-
 interface FinancialKpiTableProps {
   providerData: ProviderData | null;
 }

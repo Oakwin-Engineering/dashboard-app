@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@netlify/plugin-cache-core": "^1.0.3",
     "@types/papaparse": "^5.3.14"
   }
 }
